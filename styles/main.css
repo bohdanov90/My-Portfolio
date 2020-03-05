@@ -12,7 +12,7 @@ body {
   text-decoration: none;
 }
 .header {
-  margin: 2% 1% 0 1%;
+  margin: 2% 0 1%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,6 +24,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 1%;
 }
 .header .pic img{
   width: auto;
@@ -81,6 +82,10 @@ body {
   width: 100%;
   min-height: 250px;
   float: left;
+  border: 2px solid #666666;
+  border-radius: 15px;
+  margin: 2% 0;
+  padding: 1% 0;
 }
 .works-content .item-wrapper .img-div {
   width: 92%;
@@ -93,7 +98,7 @@ body {
 .works-content .item-wrapper .description {
   width: 92%;
   margin: 0 auto;
-  padding-top: 5%;
+  padding-top: 1%;
 }
 .works-content .item-wrapper .description a {
   font-family: "Noto Sans", "Yanone Kaffeesatz", Arial, Helvetica, sans-serif;
@@ -117,7 +122,7 @@ body {
   font-size: 1em;
 }
 footer {
-  margin: 3%;
+  margin: 1% 0 2%;
   background-color: #e3e3e3;
 }
 footer .footer-content {
