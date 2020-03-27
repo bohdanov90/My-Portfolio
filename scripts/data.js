@@ -4,7 +4,7 @@ var data = [
 		title: "To-Do List",
 		description: "Simple To-Do app made with Angular2+ Framework and TypeScript. Will be useful for grocery lists or simple every day tasks. Thanks to Local Storage you can close browser and retrieve data later without losses.",
 		linkToDemo: "https://bohdanov90.github.io/ToDoList/",
-		linkToCode: "https://github.com/bohdanov90/ToDoList/tree/gh-pages",
+		linkToCode: "https://github.com/bohdanov90/ToDoList/tree/no-build",
 		image: "images/works-screen/to-do-list.jpg",
 		tags: ["Angular2+", "TypeScript"]
 	},
