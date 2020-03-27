@@ -173,12 +173,12 @@
 
 @media screen and (max-width: 768px) {
     .view p {
-        line-height: 3.5vh;
+        line-height: 4.75vh;
     }
 }
 
 @media screen and (max-width: 480px) {
     .view p {
-        line-height: 3.5vh;
+        line-height: 2.75vh;
     }
 }

@@ -58,19 +58,26 @@ body {
 .works .works-header .title {
   float: left;
   margin: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .works .works-header .title i {
+  float: left;
+  margin: 1%;
   font-size: 1.6vw;
+}
+.works .works-header .title .h3-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .works .works-header .title h3 {
   font-size: 1.3vw;
-  display: inline-block;
   color: #4F4640;
   letter-spacing: 0.1vw;
   text-transform: uppercase;
   padding-left: 10px;
-  position: relative;
-  top: -3px;
 }
 .works .works-header .filter {
   float: right;
@@ -183,7 +190,8 @@ footer .footer-content .links a:hover {
 }*/
 @media screen and (max-width: 768px) {
   .header .pic img {
-    width: 100%;
+    width: auto;
+    max-width: 100%;
     height: 100%;
     margin-left: 4vw;
   }
@@ -198,10 +206,10 @@ footer .footer-content .links a:hover {
     font-size: 2.6vw;
   }
   .works .works-header .title h3 {
-    font-size: 2.3vw;
+    font-size: 3vw;
   }
   .works .works-header .filter {
-    font-size: 1.5vw;
+    font-size: 2vw;
   }
   .works-content .item-wrapper .description a h5 {
     font-size: 4vw;
@@ -236,12 +244,18 @@ footer .footer-content .links a:hover {
   */
 } 
 @media screen and (max-width: 480px) {
+  .header {
+    height: 170px;
+  }
   .header .pic img {
     width: 100%;
     height: 100%;
     margin-left: 4vw;
   }
-  .works .works-header {
+  .works .works-header .filter {
+    font-size: 2.5vw;
+  }
+  /* .works .works-header {
     margin: 2%;
   }
   .works .works-header .title {
@@ -262,5 +276,5 @@ footer .footer-content .links a:hover {
   }
   .works-content .item-wrapper .description {
     width: 96%;
-  }
+  } */
 }
