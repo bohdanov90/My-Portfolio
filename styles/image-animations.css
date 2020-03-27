@@ -26,7 +26,7 @@
 .view p {
     font-family: 'Noto Sans';
     font-style: italic;
-    font-size: 1.25em;
+    font-size: 1.25vw;
     line-height: 2.5rem;
     position: relative;
     padding: 7% 4% 5% 5%;
@@ -41,10 +41,10 @@
     color: #fff;
     text-transform: uppercase;
     font-family: "Yanone Kaffeesatz",Arial,Helvetica,sans-serif;
-    font-size: 1.1em;
+    font-size: 1.1vw;
 }
 .view a.info:hover {
-    background: #FFF67A;
+    background: #f2e394;
     color: #666;
 }
 
