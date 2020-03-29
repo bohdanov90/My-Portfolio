@@ -6,7 +6,7 @@ var data = [
 		linkToDemo: "https://bohdanov90.github.io/ToDoList/",
 		linkToCode: "https://github.com/bohdanov90/ToDoList/tree/no-build",
 		image: "images/works-screen/to-do-list.jpg",
-		tags: ["Angular2+", "TypeScript"]
+		tags: ["Angular2+", "TypeScript", "Adaptive Design"]
 	},
 	{
 		id: 2,
