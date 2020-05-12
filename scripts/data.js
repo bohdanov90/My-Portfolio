@@ -1,6 +1,15 @@
 var data = [
 	{
-		id: 1,
+		id: 7,
+		title: "Cocktail-DB",
+		description: "Single Page App that fetches drinks from the cocktail database and displays them with selected filters to the user. Created using RxJS, Angular2+ and TypeScript.",
+		linkToDemo: "https://bohdanov90.github.io/Cocktail-DB/",
+		linkToCode: "https://github.com/bohdanov90/Cocktail-DB",
+		image: "images/works-screen/cocktail-DB.jpg",
+		tags: ["RxJS", "Angular2+", "TypeScript", "PSD to HTML"]
+	},
+	{
+		id: 6,
 		title: "To-Do List",
 		description: "Simple To-Do List created using Angular2+ and TypeScript. Can be used for grocery lists or simple every day tasks. Saves your data to Local Storage.",
 		linkToDemo: "https://bohdanov90.github.io/ToDoList/",
@@ -9,7 +18,7 @@ var data = [
 		tags: ["Angular2+", "TypeScript", "Adaptive Design"]
 	},
 	{
-		id: 2,
+		id: 5,
 		title: "Food Calculator",
 		description: "Search database for food and drinks you have consumed and choose amount of servings. App will calculate total calories you consumed today. Created using pure JavaScript, AJAX, BEM and SCSS. Adapted for different devices.",
 		linkToDemo: "https://bohdanov90.github.io/Food-Calculator/",
@@ -18,7 +27,7 @@ var data = [
 		tags: ["AJAX", "JavaScript", "Adaptive Design", "BEM", "SCSS"]
 	},
 	{
-		id: 3,
+		id: 4,
 		title: "Geography Trivia",
 		description: "Trivia game created using pure JavaScript, BEM methodology and SCSS preprocessor, adapted for different devices",
 		linkToDemo: "https://bohdanov90.github.io/Geography-Trivia/",
@@ -27,7 +36,7 @@ var data = [
 		tags: ["JavaScript", "Adaptive Design", "BEM", "SCSS"]
 	},
 	{
-		id: 4,
+		id: 3,
 		title: "Pig Game",
 		description: "JavaScript game for two players in which you should defeat your opponent by reaching Total Score faster. Game is adapted for different screens and devices. Created using BEM methodology and SCSS preprocessor.",
 		linkToDemo: "https://bohdanov90.github.io/Pig-Game/",
@@ -36,7 +45,7 @@ var data = [
 		tags: ["JavaScript", "Adaptive Design", "BEM", "SCSS"]
 	},
 	{
-		id: 5,
+		id: 2,
 		title: "Lian",
 		description: "PSD template converted into HTML5/CSS3 using Pixel Perfect approach, BEM methodology and SCSS preprocessor.",
 		linkToDemo: "https://bohdanov90.github.io/Lian/",
@@ -45,7 +54,7 @@ var data = [
 		tags: ["BEM", "SCSS", "Pixel Perfect", "PSD to HTML"]
 	},
 	{
-		id: 6,
+		id: 1,
 		title: "Whitesquare",
 		description: "PSD template converted into HTML5/CSS3 using HTML5 and CSS3.",
 		linkToDemo: "https://bohdanov90.github.io/Whitesquare/",
