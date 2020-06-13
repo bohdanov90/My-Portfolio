@@ -1,8 +1,17 @@
 var data = [
 	{
 		id: 7,
+		title: "weatherApp",
+		description: "Single Page App that fetches weather from any city of the world. Users should authenticate before accessing the weather page. Back end emulated using local storage. Created using RxJS, Angular2+, TypeScript, and Bootstrap.",
+		linkToDemo: "https://bohdanov90.github.io/weatherApp/",
+		linkToCode: "https://github.com/bohdanov90/weatherApp",
+		image: "images/works-screen/weatherApp.jpg",
+		tags: ["RxJS", "Angular2+", "TypeScript", "Bootstrap"]
+	},
+	{
+		id: 7,
 		title: "Cocktail-DB",
-		description: "Single Page App that fetches drinks from the cocktail database and displays them with selected filters to the user. Created using RxJS, Angular2+ and TypeScript.",
+		description: "Single Page App that fetches drinks from the cocktail database and displays them with selected filters to the user. Created using RxJS, Angular2+, and TypeScript.",
 		linkToDemo: "https://bohdanov90.github.io/Cocktail-DB/",
 		linkToCode: "https://github.com/bohdanov90/Cocktail-DB",
 		image: "images/works-screen/cocktail-DB.jpg",
@@ -11,7 +20,7 @@ var data = [
 	{
 		id: 6,
 		title: "To-Do List",
-		description: "Simple To-Do List created using Angular2+ and TypeScript. Can be used for grocery lists or simple every day tasks. Saves your data to Local Storage.",
+		description: "Simple To-Do List created using Angular2+ and TypeScript. It can be used for grocery lists or simple everyday tasks. Saves your data to Local Storage.",
 		linkToDemo: "https://bohdanov90.github.io/ToDoList/",
 		linkToCode: "https://github.com/bohdanov90/ToDoList/tree/no-build",
 		image: "images/works-screen/to-do-list.jpg",
@@ -20,7 +29,7 @@ var data = [
 	{
 		id: 5,
 		title: "Food Calculator",
-		description: "Search database for food and drinks you have consumed and choose amount of servings. App will calculate total calories you consumed today. Created using pure JavaScript, AJAX, BEM and SCSS. Adapted for different devices.",
+		description: "Search database for food and drinks you have consumed and choose the amount of servings. The App will calculate the total calories you consumed today. Created using pure JavaScript, AJAX, BEM, and SCSS. Adapted for different devices.",
 		linkToDemo: "https://bohdanov90.github.io/Food-Calculator/",
 		linkToCode: "https://github.com/bohdanov90/Food-Calculator",
 		image: "images/works-screen/food-calculator.jpg",
@@ -29,7 +38,7 @@ var data = [
 	{
 		id: 4,
 		title: "Geography Trivia",
-		description: "Trivia game created using pure JavaScript, BEM methodology and SCSS preprocessor, adapted for different devices",
+		description: "Trivia game created using pure JavaScript, BEM methodology, and SCSS preprocessor, adapted for different devices.",
 		linkToDemo: "https://bohdanov90.github.io/Geography-Trivia/",
 		linkToCode: "https://github.com/bohdanov90/Geography-Trivia",
 		image: "images/works-screen/geography-trivia.jpg",
@@ -47,7 +56,7 @@ var data = [
 	{
 		id: 2,
 		title: "Lian",
-		description: "PSD template converted into HTML5/CSS3 using Pixel Perfect approach, BEM methodology and SCSS preprocessor.",
+		description: "PSD template converted into HTML5/CSS3 using the Pixel Perfect approach, BEM methodology, and SCSS preprocessor.",
 		linkToDemo: "https://bohdanov90.github.io/Lian/",
 		linkToCode: "https://github.com/bohdanov90/Lian",
 		image: "images/works-screen/lian.jpg",
