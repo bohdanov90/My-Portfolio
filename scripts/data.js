@@ -15,7 +15,7 @@ var data = [
 		linkToDemo: "https://bohdanov90.github.io/Cocktail-DB/",
 		linkToCode: "https://github.com/bohdanov90/Cocktail-DB",
 		image: "images/works-screen/cocktail-DB.jpg",
-		tags: ["RxJS", "Angular 9", "TypeScript", "PSD to HTML"]
+		tags: ["RxJS", "Angular 9", "TypeScript", "Angular Material", "Responsive Design"]
 	},
 	{
 		id: 7,
